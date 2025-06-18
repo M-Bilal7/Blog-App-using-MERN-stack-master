@@ -83,14 +83,3 @@ docker-compose up --build
 ```bash
 docker-compose down
 ```
-
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute to this project, please feel free to open an issue or Make a PR.
-
-
-## Acknowledgments
-
-We would like to thank all contributors and the open-source community for their support.
-
----
